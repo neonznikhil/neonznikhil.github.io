@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://neonznikhil.github.io/sitemap.xml
+Sitemap: https://travika.in/sitemap.xml
